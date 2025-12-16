@@ -35,3 +35,6 @@ Evolução do sistema de lavação automotiva. Nesta versão (Mão na Massa 3), 
 * **OrdemServico:** O "coração" desta etapa. Realiza agregação com `Veiculo` e composição com `ItemOS`. Possui lógica para calcular totais e aplicar descontos.
 * **Relatorio & ImpressaoOS:** Classes especializadas que demonstram associação por dependência, formatando a saída de dados para o console.
 
+
+## 👨‍💻 Autor
+Desenvolvido por **Luciano Simas Junior** | IFSC Florianópolis
